@@ -1,0 +1,57 @@
+body {
+	background-color: silk;
+}
+.termekek:hover {
+	background: red;
+}
+
+.termekek {
+	text-align:left;
+	font-weight:bolder;
+}
+
+div {
+	border: 5px solid brown;
+	border-radius: 20px 5px;
+	padding:10px;
+}
+th {
+	font-size:1.5em;
+}
+.kiskep {
+	width:100px;
+	height:100px;
+}
+#nagykep 
+{
+	width:100%;
+	height:100%;
+}
+
+#kinalat {
+	display:inline-block;
+	height:400px;
+	overflow:auto;
+}
+#kep {
+	width:40%;
+	height:400px;
+	float:right;
+	
+}
+#kosar {
+	display:block;
+	height:120px;
+	overflow:auto;
+	margin:auto;
+	width:90%;
+}
+table {
+	display: inline-block;
+	width: 80%;
+	margin: auto;
+}
+td {
+	text-align:center;	
+	border:1px dotted brown;
+}
