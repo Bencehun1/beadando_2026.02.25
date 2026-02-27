@@ -1,5 +1,5 @@
 body {
-	background-color: silk;
+	background-color: cornsilk;
 }
 .termekek:hover {
 	background: red;
@@ -54,4 +54,12 @@ table {
 td {
 	text-align:center;	
 	border:1px dotted brown;
+}
+.dbInput{
+	width:80px;
+	font-size:1em;
+}
+.sorOsszeg{
+	text-align:right;
+	font-weight:bold;
 }
